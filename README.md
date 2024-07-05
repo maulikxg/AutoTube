@@ -25,4 +25,4 @@ YouTube AutoPause is a Chrome extension that automatically manages video playbac
 
 (Personal Problem with YouTube 😐)
 
-<div class="tenor-gif-embed" data-postid="8479583" data-share-method="host" data-aspect-ratio="1.77515" data-width="100%"><a href="https://tenor.com/view/daichi-sawamura-thumbs-up-haikyuu-okay-anime-gif-8479583">Daichi Sawamura Thumbs Up GIF</a>from <a href="https://tenor.com/search/daichi+sawamura-gifs">Daichi Sawamura GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
