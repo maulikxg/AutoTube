@@ -25,4 +25,5 @@ YouTube AutoPause is a Chrome extension that automatically manages video playbac
 
 (Personal Problem with YouTube 😐)
 
+![done](https://github.com/maulikxg/AutoTube/assets/105512770/4bf018e5-c40e-44c3-b092-1a0fb32eb111)
 
