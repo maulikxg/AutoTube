@@ -24,3 +24,5 @@ YouTube AutoPause is a Chrome extension that automatically manages video playbac
 - Whitelist: Prevent auto-pausing on specific channels.
 
 (Personal Problem with YouTube 😐)
+
+https://tenor.com/JJ5D.gif
